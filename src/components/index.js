@@ -1,3 +1,3 @@
-import HeadComp from './Head'
+import SEO from './SEO'
 
-export {HeadComp}
+export { SEO}
